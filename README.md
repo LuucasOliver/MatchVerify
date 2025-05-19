@@ -56,7 +56,7 @@ Desenvolver um software que registre o que foi recebido e o que foi retirado, al
 ### Tecnologias Utilizadas
 - **Front-End:** Vue.js | Node
 - **Back-End | API REST:** Java 21 | Spring Boot 3.2.3 | Maven
-- Banco de dados:** PostgreSQL (Supabase)
+- **Banco de dados:** PostgreSQL (Supabase)
 ### Arquitetura do Sistema
 > *Dica: Insira aqui uma imagem contendo a arquitetura do sistema e o fluxo das informações. Se a arquitetura for muito simples, detalhe o fluxo dos processos.*
 ---
