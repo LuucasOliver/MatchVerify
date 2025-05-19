@@ -54,7 +54,9 @@ Desenvolver um software que registre o que foi recebido e o que foi retirado, al
 ### Modelagem do Sistema
 > *Dica: A modelagem do seu sistema são diagramas (desenhos) da sua estrutura ou comportamento. A UML (Unified Modelling Language) oferece diversos diagramas para que você possa modelar seu sistema. Escolha, pelo menos, dois modelos e insira aqui. Por exemplo, Modelo de Dados (Diagrama de Classe ou MER), Casos de Uso, Diagrama de Sequência, Diagrama de Atividades etc. Estes modelos são próprios para construção da comunicação, entendimento e implantação dos requisitos do sistema. Você pode usar ferramentas, como: LucidChart, Draw.io etc.*
 ### Tecnologias Utilizadas
-> *Dica: Escreva quais linguagens foram utilizadas, quais frameworks, bibliotecas e API’s consumidas/criadas. Quais ferramentas foram usadas para desenho dos modelos. Para cada um deles, faça uma pequena descrição de uso.*
+- **Front-End:** Vue.js | Node
+- **Back-End | API REST:** Java 21 | Spring Boot 3.2.3 | Maven
+- Banco de dados:** PostgreSQL (Supabase)
 ### Arquitetura do Sistema
 > *Dica: Insira aqui uma imagem contendo a arquitetura do sistema e o fluxo das informações. Se a arquitetura for muito simples, detalhe o fluxo dos processos.*
 ---
