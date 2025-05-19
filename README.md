@@ -40,7 +40,6 @@ Desenvolver um software que registre o que foi recebido e o que foi retirado, al
 ---
 
 ## Backlog do Produto
-> *Neste capítulo, teremos uma lista expandida do Escopo. Liste aqui os Requisitos levantados junto ao cliente e pela equipe de desenvolvimento. Os requisitos devem ter uma breve explicação do que se trata. Caso já tenha feito isso no Jira, basta copiar para cá.*
 > Criação do bando de dados - Armarzenar as informações seja de loging quanto as informações dos itens recebidos pela equipe que gere o software.
 > Criação do Front-End - Tela aonde o cliente irá ter acesso a todas as funcionalidades de registro do itens e observações.
 > Criação da API Rest em Java - API responsalvel por toda a dinamina de interração com o banco de dados para armazenamento dos dados e exibição no front-end.
