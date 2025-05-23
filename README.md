@@ -63,7 +63,7 @@ https://ibb.co/XZz4DW99
 - **Back-End | API REST:** Java 21 | Spring Boot 3.2.3 | Maven
 - **Banco de dados:** PostgreSQL (Supabase)
 ### Arquitetura do Sistema
-> *Dica: Insira aqui uma imagem contendo a arquitetura do sistema e o fluxo das informações. Se a arquitetura for muito simples, detalhe o fluxo dos processos.*
+https://ibb.co/JR86sTYd
 ---
 
 ## Resultados
