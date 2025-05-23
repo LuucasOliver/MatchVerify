@@ -72,7 +72,47 @@ https://ibb.co/JR86sTYd
 - **Tela Principal:** https://ibb.co/3y1nCwG4
 Tela aonde o cliente tem o acesso completo do cadastro dos itens que são recebidos na plataforma.
 ### Códigos das Principais Funcionalidades
-> *Dica: Copy-cole aqui as seções mais relevantes do seu código. Insira comentários sobre cada seção.*
+/*
+  Função para redefinir o formulário para o estado padrão.
+  Define delivery_time com a data e hora atuais.
+*/
+const resetForm = () => {
+  Object.assign(formData, defaultFormState)
+  formData.delivery_time = format(new Date(), "yyyy-MM-dd'T'HH:mm")
+}
+
+/*
+  Função assíncrona para enviar o formulário.
+  Realiza validações nos campos obrigatórios:
+  - package_name: obrigatório
+  - owner_name: obrigatório
+  - delivery_time: obrigatório
+  
+  Se todos os campos forem válidos, define isSubmitting como true.
+*/
+const submitForm = async () => {
+  formError.value = ''
+  successMessage.value = ''
+  
+  // Validação
+  if (!formData.package_name.trim()) {
+    formError.value = 'Descrição da encomenda é obrigatória'
+    return
+  }
+  
+  if (!formData.owner_name.trim()) {
+    formError.value = 'Nome do destinatário é obrigatório'
+    return
+  }
+  
+  if (!formData.delivery_time) {
+    formError.value = 'Data e hora são obrigatórios'
+    return
+  }
+  
+  isSubmitting.value = true
+}
+
 ---
 
 ## Conclusão
