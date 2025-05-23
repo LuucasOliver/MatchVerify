@@ -64,6 +64,7 @@ https://ibb.co/XZz4DW99
 - **Banco de dados:** PostgreSQL (Supabase)
 ### Arquitetura do Sistema
 https://ibb.co/JR86sTYd
+
 ---
 
 ## Resultados
