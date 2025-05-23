@@ -48,6 +48,12 @@ Desenvolver um software que registre o que foi recebido e o que foi retirado, al
 
 ## Cronograma
 > *Insira aqui uma imagem ou tabela de todo o planejamento do projeto (com atividades e datas). A periodicidade das tarefas será de 2 semanas. O cronograma deve abranger todo o processo de construção do projeto. Isso pode ser feito diretamente neste doc, no Excel, Canva etc.*
+| Atividades                 | Responsabilidade                               | Prazo                             |
+|--------------------------------|--------------------------------------|-----------------------------------------|
+| Criação do Front-end    | Criar as telas principais e de login | Uma semana |
+| Criação da API REST    | Criar a API que irá conversar com o front e back-end | Duas semanas |
+| Criação do banco de dados    | Criar o banco para armazenamento das informações | Uma semana |
+
 ---
 
 ## Materiais e Métodos
