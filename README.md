@@ -69,7 +69,8 @@ https://ibb.co/JR86sTYd
 
 ## Resultados
 ### Protótipo
-> *Dica: São as telas do software e suas descrições. Em cada uma delas, descreva as ações possíveis do usuário e reações do sistema. Isto pode ser feito através do print das telas do seu sistema. As telas não podem ocupar muito espaço da página, porém também não podem ficar ilegíveis.*
+- **Tela Principal:** https://ibb.co/3y1nCwG4
+Tela aonde o cliente tem o acesso completo do cadastro dos itens que são recebidos na plataforma.
 ### Códigos das Principais Funcionalidades
 > *Dica: Copy-cole aqui as seções mais relevantes do seu código. Insira comentários sobre cada seção.*
 ---
