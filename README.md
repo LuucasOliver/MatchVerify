@@ -57,7 +57,7 @@ Desenvolver um software que registre o que foi recebido e o que foi retirado, al
 
 ## Materiais e Métodos
 ### Modelagem do Sistema
-(https://ibb.co/XZz4DW99)
+https://ibb.co/XZz4DW99
 ### Tecnologias Utilizadas
 - **Front-End:** Vue.js | Node
 - **Back-End | API REST:** Java 21 | Spring Boot 3.2.3 | Maven
