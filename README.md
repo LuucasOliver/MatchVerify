@@ -57,7 +57,8 @@ Desenvolver um software que registre o que foi recebido e o que foi retirado, al
 
 ## Materiais e Métodos
 ### Modelagem do Sistema
-> *Dica: A modelagem do seu sistema são diagramas (desenhos) da sua estrutura ou comportamento. A UML (Unified Modelling Language) oferece diversos diagramas para que você possa modelar seu sistema. Escolha, pelo menos, dois modelos e insira aqui. Por exemplo, Modelo de Dados (Diagrama de Classe ou MER), Casos de Uso, Diagrama de Sequência, Diagrama de Atividades etc. Estes modelos são próprios para construção da comunicação, entendimento e implantação dos requisitos do sistema. Você pode usar ferramentas, como: LucidChart, Draw.io etc.*
+![Modelagem UML]
+(https://ibb.co/XZz4DW99)
 ### Tecnologias Utilizadas
 - **Front-End:** Vue.js | Node
 - **Back-End | API REST:** Java 21 | Spring Boot 3.2.3 | Maven
