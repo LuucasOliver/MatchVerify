@@ -117,9 +117,10 @@ const submitForm = async () => {
 
 ## Conclusão
 ### Impacto do Sistema
-> *Dica: Como o sistema impactou (alterou positivamente) o processo do cliente.*
+O sistema impactou diretamente no dia a dia do cliente, até mesmo melhorando sua produtividade durante o seu horario de trabalho.
 ### Melhorias Futuras
-> *Dica: Elencar, pelo menos, uma melhoria que poderá ser realizada futuramente no sistema.*
+Criação de Alertas para o software
+Noava features para o software
 ---
 
 ## Homologação do MVP junto ao Cliente
