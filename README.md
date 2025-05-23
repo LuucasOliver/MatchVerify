@@ -57,7 +57,6 @@ Desenvolver um software que registre o que foi recebido e o que foi retirado, al
 
 ## Materiais e Métodos
 ### Modelagem do Sistema
-![Modelagem UML]
 (https://ibb.co/XZz4DW99)
 ### Tecnologias Utilizadas
 - **Front-End:** Vue.js | Node
