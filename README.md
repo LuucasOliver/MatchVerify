@@ -135,9 +135,10 @@ Após as entregas parciais, realizadas de acordo com os requisitos do sistema e 
 
 ## Seminário de Projetos de Software
 ### Vídeo da Apresentação
-> *Grave sua apresentação, poste no LinkedIn do projeto e insira aqui o link público (acesso sem login) do vídeo da apresentação.*
+https://ibb.co/QFRZNzVK
+https://ibb.co/tPhh3HzX
 ---
 
 ## FENETEC: Feira de Negócios em Tecnologia
 ### Apresentação do Projeto
-> *Um vídeo deve ser produzido mostrando o time apresentando seu projeto para algum visitante. Importante que neste vídeo tenha uma tomada do banner e dos integrantes. Insira aqui o link público deste vídeo.*
+https://ibb.co/tPhh3HzX
