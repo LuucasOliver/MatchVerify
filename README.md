@@ -125,7 +125,9 @@ O sistema impactou diretamente no dia a dia do cliente, até mesmo melhorando su
 ## Homologação do MVP junto ao Cliente
 Após as entregas parciais, realizadas de acordo com os requisitos do sistema e cronograma, o MVP foi apresentado em uma reunião entre o time de desenvolvedores e o cliente.
 
-> *Dica: Inserir uma foto da homologação em cada linha do quadro abaixo. Serão 4 fotos (tiradas no momento da homologação) e, na linha debaixo, uma legenda para cada uma delas. A homologação, preferencialmente, deve ser presencial. Se não for viável, pode ser feita por videoconferência com prints da tela.*
+https://ibb.co/QFRZNzVK
+
+https://ibb.co/tPhh3HzX
 ---
 
 ## Divulgação
