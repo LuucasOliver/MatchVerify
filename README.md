@@ -128,6 +128,7 @@ Após as entregas parciais, realizadas de acordo com os requisitos do sistema e 
 https://ibb.co/QFRZNzVK
 
 https://ibb.co/tPhh3HzX
+
 ---
 
 ## Divulgação
@@ -141,7 +142,6 @@ https://ibb.co/tPhh3HzX
 https://ibb.co/QFRZNzVK
 
 https://ibb.co/tPhh3HzX
-
 
 ---
 
