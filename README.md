@@ -119,7 +119,7 @@ const submitForm = async () => {
 ### Impacto do Sistema
 O sistema impactou diretamente no dia a dia do cliente, até mesmo melhorando sua produtividade durante o seu horario de trabalho.
 ### Melhorias Futuras
-Criação de Alertas para o software, novas features para o software.
+- **Criação de Alertas para o software, novas features para o software.**
 ---
 
 ## Homologação do MVP junto ao Cliente
