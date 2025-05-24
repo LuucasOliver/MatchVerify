@@ -138,6 +138,7 @@ Após as entregas parciais, realizadas de acordo com os requisitos do sistema e 
 https://ibb.co/QFRZNzVK
 
 https://ibb.co/tPhh3HzX
+
 ---
 
 ## FENETEC: Feira de Negócios em Tecnologia
