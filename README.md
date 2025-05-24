@@ -133,7 +133,11 @@ https://ibb.co/tPhh3HzX
 
 ## Divulgação
 ### LinkedIn do Projeto
-> *A página do LinkedIn do projeto deve ter o logo do LTD, o título do projeto, um breve resumo, o nome dos integrantes e o nome do professor-orientador. Insira também o link do repositório do projeto no GitHub. Neste perfil, deve ser postado a cada Sprint os artefatos produzidos (diagramas, vídeos explicativos de códigos, artigo sobre determinado tema vinculado ao desenvolvimento do projeto). Promova engajamento e networking conectando-se a profissionais da área, compartilhamentos, comentários etc.*
+
+Projetos
+
+https://www.linkedin.com/in/lucas-guthierrez-oliver/
+
 ---
 
 ## Seminário de Projetos de Software
