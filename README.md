@@ -136,6 +136,7 @@ Após as entregas parciais, realizadas de acordo com os requisitos do sistema e 
 ## Seminário de Projetos de Software
 ### Vídeo da Apresentação
 https://ibb.co/QFRZNzVK
+
 https://ibb.co/tPhh3HzX
 ---
 
